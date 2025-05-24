@@ -1,0 +1,15 @@
+pydub
+whisper
+openai-whisper
+language-tool-python
+nltk
+transformers
+torch
+scipy
+numpy
+tqdm
+spacy
+textstat
+json
+os
+argparse
