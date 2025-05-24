@@ -43,7 +43,7 @@ cd analyze_audio
 
 ### 2. Set up a virtual environment (Python 3.11 recommended)
 ```bash
-python3.11 -m venv venv
+python3 -m venv venv
 source venv/bin/activate
 ```
 
