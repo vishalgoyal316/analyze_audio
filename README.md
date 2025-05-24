@@ -12,7 +12,7 @@ It uses OpenAI's Whisper for transcription, spaCy for NLP processing, and FastAP
 
 ## 🔧 Features
 
-- 🎙 Upload audio responses (e.g., `.mp3`, `.wav`)
+- 🎙 Upload audio responses (e.g., `.mp3`, `.mp4`,`.wav`)
 - 🧠 Automatic transcription using Whisper
 - ✍️ Evaluate linguistic features (fluency, vocabulary, etc.)
 - 🚀 FastAPI-based backend for scalable deployment
